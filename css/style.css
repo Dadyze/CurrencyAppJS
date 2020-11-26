@@ -6,7 +6,8 @@ body{
     min-height: 100vh;
     justify-content: center;
     align-items: center;
-    background-color: darkblue;
+    background-image: url("Background.png");
+    background-position: center;
     color: black;
 }
 
